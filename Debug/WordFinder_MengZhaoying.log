@@ -1,0 +1,4 @@
+﻿  WordFinder_MengZhaoying.cpp
+c:\users\zhaoy\desktop\hcc\2018 fall third\cosc 1437\project1\wordfinder_mengzhaoying\wordfinder_mengzhaoying\wordfinder_mengzhaoying.cpp(30): warning C4101: 'counter': unreferenced local variable
+c:\users\zhaoy\desktop\hcc\2018 fall third\cosc 1437\project1\wordfinder_mengzhaoying\wordfinder_mengzhaoying\wordfinder_mengzhaoying.cpp(29): warning C4101: 'num': unreferenced local variable
+  WordFinder_MengZhaoying.vcxproj -> C:\Users\zhaoy\Desktop\HCC\2018 Fall Third\COSC 1437\Project1\WordFinder_MengZhaoying\Debug\WordFinder_MengZhaoying.exe

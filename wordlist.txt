@@ -1,0 +1,8 @@
+dog
+ox
+jump
+cat
+fish
+telephone
+words
+panda
